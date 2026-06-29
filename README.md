@@ -1,5 +1,7 @@
 # Awesome AI Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**English** | [한국어](README.ko.md) | [中文](README.zh.md)
+
 > A curated list of practical, AI-powered tools for Finance that do **not** require deep ML model training.
 
 **Focus:** LLMs · AI Agents · Advanced NLP · MCP Servers — ready to use, no data science PhD required.
