@@ -151,3 +151,8 @@ One entry per row: name, one-sentence description focused on the AI/LLM function
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+## Helium Trades Open Benchmarks (2026)
+
+- [Helium Market Resolution Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) - 300 frozen option-chain prompts; tests IV, delta, arbitrage. [Overview](https://heliumtrades.com/benchmarks/)
