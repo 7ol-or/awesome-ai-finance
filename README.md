@@ -77,7 +77,7 @@ Multi-agent and LLM orchestration frameworks built specifically for financial an
 | Project | Description | Stars | Last Push | License |
 |---------|-------------|-------|-----------|---------|
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Multi-agent LLM trading framework that mirrors a real trading firm — specialized agents for fundamentals, sentiment, technicals, risk, and portfolio management collaborate via LangGraph to reach consensus on trade decisions. | ![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square) | 2026-06-22 | Apache-2.0 |
-| [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Open-source financial LLM framework for fine-tuning general models (LLaMA, ChatGLM, Qwen) via LoRA/QLoRA on tasks including sentiment analysis, robo-advising, and trading signal generation. Pre-trained models available on HuggingFace without training. | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=flat-square) | 2026-06-01 | MIT |
+| [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Open-source financial LLM framework for fine-tuning general models (LLaMA, ChatGLM, Qwen) via LoRA/QLoRA on tasks including sentiment analysis, robo-advising, and trading signal generation. Pre-trained models available on Hugging Face without training. | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=flat-square) | 2026-06-01 | MIT |
 | [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | Open-source AI agent platform with a four-layer architecture for financial perception, analysis, and automated equity research report generation using LLMs. | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square) | 2026-05-10 | Apache-2.0 |
 | [coinbase/agentkit](https://github.com/coinbase/agentkit) | **Official** Coinbase framework that gives any AI agent a crypto wallet — LangChain and CrewAI compatible, covers on-chain token transfers, DeFi protocol interaction, NFT minting, and trade execution across Base and Ethereum. | ![Stars](https://img.shields.io/github/stars/coinbase/agentkit?style=flat-square) | 2026-06-23 | — |
 
@@ -115,7 +115,7 @@ Discord servers and forums where AI + finance practitioners build, share, and co
 | Community | Platform | Members | Focus |
 |-----------|----------|---------|-------|
 | [LuxAlgo](https://discord.com/servers/luxalgo-641770286638694402) | Discord | 100,000+ | AI-powered TradingView indicator and strategy generation — "Quant" product converts plain English into backtested Pine Script via LLM; official Discord Partner |
-| [AI4Finance Foundation](https://github.com/AI4Finance-Foundation/FinGPT) | Discord | 12,000+ | Open-source financial LLMs (FinGPT, FinRobot), financial NLP, and LLM benchmarking — join via the badge in the FinGPT README |
+| [AI4Finance Foundation](https://github.com/AI4Finance-Foundation) | Discord | 12,000+ | Open-source financial LLMs (FinGPT, FinRobot), financial NLP, and LLM benchmarking — join via the Discord badge in the FinGPT README. |
 | [Hummingbot](https://hummingbot.org/community/discord) | Discord | Large | Algorithmic trading bot development, market making, exchange connectors, and AI-assisted strategy building; Foundation-operated with weekly podcast |
 | [LLMQuant](https://llmquant.com) | Discord + GitHub | Invite-only | LLMs for quantitative research — AI agents for investment research, open-source quant tools, and MCP-integrated market data; apply via the website |
 
@@ -135,19 +135,8 @@ High-signal aggregators for discovering more AI finance tools:
 
 ## Contributing
 
-PRs welcome. Before submitting, verify:
-
-1. **AI-first:** The tool uses LLMs, AI Agents, or advanced NLP as its core — not as a footnote
-2. **In scope:** Finance = trading / investing / portfolio management / market data / quant research. **Out of scope:** content monetization tools, social media automation, general "make money with AI" tools
-3. **Active:** GitHub `pushed_at` within 12 months, or a highly reputable foundation project
-4. **Not duplicated:** If a similar tool exists, the new entry must serve a meaningfully different purpose or have significantly more stars
-
-License column: explicit SPDX identifier (e.g. `MIT`, `Apache-2.0`) where declared; `—` where GitHub reports no or unrecognized license. Use repos with `—` at your own discretion.
-
-One entry per row: name, one-sentence description focused on the AI/LLM functionality, stars badge, last push date, license.
+Please read [contributing.md](contributing.md) before opening a pull request.
 
 ---
-
-## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
