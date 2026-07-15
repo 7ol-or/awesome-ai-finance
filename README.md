@@ -67,6 +67,7 @@ MCP (Model Context Protocol) servers that plug financial data and trading APIs d
 | [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) | Open-source memory MCP for AI trading agents — three-layer architecture (L1 raw trade memory, L2 pattern reflection, L3 strategy evolution) enabling agents to learn from past trades. | ![Stars](https://img.shields.io/github/stars/mnemox-ai/tradememory-protocol?style=flat-square) | 2026-06-01 | MIT |
 | [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | Personal stock analysis MCP server — technical indicators, earnings calendars, options flow, insider trades, and sector analysis for AI assistants. | ![Stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=flat-square) | 2026-06-20 | MIT |
 | [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) | MCP server giving AI assistants direct access to SEC EDGAR filings (10-K, 10-Q, 8-K, insider trading) for fundamental research and due diligence. | ![Stars](https://img.shields.io/github/stars/stefanoamorelli/sec-edgar-mcp?style=flat-square) | 2026-06-23 | AGPL-3.0 |
+| [hbhqq9/bde-score](https://github.com/hbhqq9/bde-score) | EU AI Act Art.50 compliant multi-market stock analysis MCP server — quantitative scoring (BUY/HOLD/SELL signals) for US, HK, and CN A-shares with x402 payment integration. | ![Stars](https://img.shields.io/github/stars/hbhqq9/bde-score?style=flat-square) | 2026-07-15 | MIT |
 
 ---
 
