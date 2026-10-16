@@ -61,6 +61,7 @@ MCP (Model Context Protocol) servers that plug financial data and trading APIs d
 | [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) | **Official** Korea Investment & Securities Open API — MCP and LLM-integrated SDK (topics: mcp, claude, llm, autotrade) for Korean equity market trading including real-time quotes, order management, and AI-assisted strategy examples. | ![Stars](https://img.shields.io/github/stars/koreainvestment/open-trading-api?style=flat-square) | 2026-06-24 | — |
 
 ### Research & Analysis
+- **[Money Reactor](https://github.com/makar52nn2016-jpg/money-reactor)** - x402 bounty radar (funded crypto/GitHub bounties) + honeypot trust scoring for repos — screen work before accepting (Base USDC, MCP over HTTP)
 
 | Project | Description | Stars | Last Push | License |
 |---------|-------------|-------|-----------|---------|
