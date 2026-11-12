@@ -105,6 +105,7 @@ Ready-to-use end-user tools: AI investment copilots, autonomous hedge fund simul
 | [51bitquant/ai-hedge-fund-crypto](https://github.com/51bitquant/ai-hedge-fund-crypto) | AI-powered hedge fund framework specialized for cryptocurrency trading, using LLM agents with multi-timeframe LangGraph workflows to analyze markets and execute strategies on crypto exchanges. | ![Stars](https://img.shields.io/github/stars/51bitquant/ai-hedge-fund-crypto?style=flat-square) | 2025-09-05 | MIT |
 | [ivebotunac/PrimoAgent](https://github.com/ivebotunac/PrimoAgent) | LangGraph multi-agent stock analysis system with four specialized agents (technical, fundamental, sentiment, portfolio) that produce daily trading insights and next-day price predictions. | ![Stars](https://img.shields.io/github/stars/ivebotunac/PrimoAgent?style=flat-square) | 2026-01-12 | MIT |
 | [EthanAlgoX/LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | Multi-agent AI trading system for Binance Futures — uses LLMs to generate, evaluate, and adapt strategies in real-time with a portfolio manager agent coordinating multiple specialist sub-agents. | ![Stars](https://img.shields.io/github/stars/EthanAlgoX/LLM-TradeBot?style=flat-square) | 2026-04-16 | MIT |
+| [qrak/LLM_trader](https://github.com/qrak/LLM_trader) | Paper-trading LLM agent that renders a chart from every closed candle, retrieves its own closed trades as memory, and publishes every prompt and decision; paper trading only. | ![Stars](https://img.shields.io/github/stars/qrak/LLM_trader?style=flat-square) | 2026-11-12 | MIT |
 
 ---
 
